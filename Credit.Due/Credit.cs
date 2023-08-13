@@ -1,0 +1,1 @@
+﻿[assembly: Credit.Due.WillieDavis(Roles = new[] { "Programmer" })]
